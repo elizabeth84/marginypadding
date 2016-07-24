@@ -1,0 +1,10 @@
+*{
+	margin:3px;
+	font-size:13px;
+}
+div{
+	width:180px;
+	padding:8px;
+	border:2px solid #EB8459;
+	margin:0px;
+}
